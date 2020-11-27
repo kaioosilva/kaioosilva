@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/kaioosilva/kaioosilva/blob/main/illustration.png" width="300"/>
+<img align="right" src="https://github.com/kaioosilva/kaioosilva/blob/main/images/illustration.png" width="300"/>
 
 ### Hello, I'm Kaio 👋
 I’m a full stack developer that loves everything about coding. I currently work as a ReactJs, Node.js and React Native at one startup named Bake 'n' baked.
