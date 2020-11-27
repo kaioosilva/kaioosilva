@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, I'm Joseph 👋
+### I’m a full stack developer that loves everything about coding. I currently work as a ReactJs, Node.js and React Native at one startup named Bake 'n' baked.
+
+📫 How to reach me: linkdin https://www.linkedin.com/in/kaio-oliveira-silva-54275b57/.
 
 <!--
 **kaioosilva/kaioosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
