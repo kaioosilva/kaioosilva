@@ -1,3 +1,4 @@
+<img align="right" src="https://github.com/kaioosilva/kaioosilva/blob/main/images/illustration.png" width="300"/>
 
 # Kaio Oliveira Silva <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="50px">
 
