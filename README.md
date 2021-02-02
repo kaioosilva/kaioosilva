@@ -11,7 +11,6 @@
 I'm a front-end developer with a great passion for web development and building things to make people's life easier!
 
 - :rocket: Technical skills and interests: JS/TS, HTML & CSS, NodeJS, ReactJS, React Native, AWS, Docker, MongoDB.
-- 🔭 I’m currently working on front-end development using ReactJS as main technology.
 - 🌱 I’m currently learning NodeJS and React Native to become a full-stack developer!
 - 👯 I’m looking to collaborate on React and Node projects that captivate me.
 - 😄 Trying to practice clean architecture knowledge to create a quality and scalable code.
