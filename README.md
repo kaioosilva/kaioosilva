@@ -8,7 +8,7 @@
 [![Instagram badge](https://img.shields.io/badge/-Instagram-dc5273?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ronnyacacio)](https://www.instagram.com/kaioo)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=3530834223992&text=Hello!)](https://api.whatsapp.com/send?phone=3530834223992&text=Hello!)
 
-I'm a front-end developer with a great passion for web development and building things to make people's life easier!
+I'm a full stack developer with a great passion for web development and building things to make people's life easier!
 
 - :rocket: Technical skills and interests: JS/TS, HTML & CSS, NodeJS, ReactJS, React Native, AWS, Docker, MongoDB.
 - 🌱 I’m currently learning NodeJS and React Native to become a full-stack developer!
